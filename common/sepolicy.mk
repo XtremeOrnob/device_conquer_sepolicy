@@ -32,4 +32,4 @@ BOARD_SEPOLICY_DIRS += \
 endif
 
 # Selectively include legacy rules defined by the products
--include device/lineage/sepolicy/legacy-common/sepolicy.mk
+-include device/conquer/sepolicy/legacy-common/sepolicy.mk
